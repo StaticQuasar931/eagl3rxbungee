@@ -1,3 +1,5 @@
+Made by ax1dude enhanced by **[Static](https://sites.google.com/view/staticquasar931/home)**
+
 ## EaglercraftXBungee and EaglercraftXVelocity
 
 ### The latest version of the plugin is EaglerXBungee 1.3.6 and EaglerXVelocity 1.1.7
